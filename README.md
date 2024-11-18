@@ -1,5 +1,3 @@
-Aqui está um exemplo de README para o seu projeto de **Reconhecimento de Gestos em Libras**:  
-
 ---
 
 # **Reconhecimento de Gestos - Libras**
@@ -77,5 +75,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 Adicione imagens ou GIFs do sistema em execução para ilustrar os resultados.
 
 ---
-
-Se precisar de ajuda ou tiver dúvidas, entre em contato! 🎉
